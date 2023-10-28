@@ -99,7 +99,7 @@ const NavBar = () => {
                 width: "150px",
                 borderRadius: "0.25rem",
                 p: "0.25rem 1rem",
-                "& .MuiSVgIcon-root": {
+                "& .MuiSvgIcon-root": {
                   pr: "0.25rem",
                   width: "3rem"
                 },
@@ -163,7 +163,7 @@ const NavBar = () => {
                     width: "150px",
                     borderRadius: "0.25rem",
                     p: "0.25rem 1rem",
-                    "& .MuiSVgIcon-root": {
+                    "& .MuiSvgIcon-root": {
                       pr: "0.25rem",
                       width: "3rem"
                     },
